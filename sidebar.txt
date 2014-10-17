@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nga:home|Door43 (nga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nga|d43-nga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nga/archive/master.zip|d43-nga.zip]]
+
+**Recent Changes**
+{{changes>ns = nga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nga|Ethnologue data]]
+
